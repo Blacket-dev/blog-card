@@ -1,0 +1,68 @@
+.card {
+    max-width: 20rem;
+    margin: 0 auto;
+    background-color: #f8f9fa;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .card-img {
+    width: 100%;
+    display: block;
+  }
+  
+  .card-content {
+    padding: 1rem;
+  }
+  
+  .tag {
+    display: inline-block;
+    background-color: #353203;
+    color: #ffffff;
+    border-radius: 9999px;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .card-title {
+    margin-top: 0.5rem;
+    font-size: 1.125rem;
+    font-weight: 700;
+  }
+  
+  .card-text {
+    margin-top: 0.25rem;
+    color: #6c757d;
+  }
+  
+  .author-info {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+  .author-img {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 9999px;
+  }
+  
+  .author-details {
+    margin-left: 0.75rem;
+  }
+  
+  .author-name {
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  
+  .time {
+    font-size: 0.75rem;
+    color: #6c757d;
+  }
+  
+  
